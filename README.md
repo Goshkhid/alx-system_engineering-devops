@@ -1,1 +1,1 @@
-Shell, basics mandatory project solutions
+Shell, basics project solution
