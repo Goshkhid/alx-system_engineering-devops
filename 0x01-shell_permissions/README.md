@@ -9,3 +9,4 @@ a script that adds execution permission to the owner, the group owner and the ot
 a script that sets the permission to the file hello as follows
 a script that sets the mode of the file hello to this
 Write a script that sets the mode of the file hello the same as olleh’s mode
+a script that creates a directory called my_dir with permissions 751 in the working directory
