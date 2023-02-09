@@ -1,1 +1,1 @@
-Shell, basics project solution
+Shell permission madatory project
